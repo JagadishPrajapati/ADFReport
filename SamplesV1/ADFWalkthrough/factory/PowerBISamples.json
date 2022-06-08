@@ -1,0 +1,9 @@
+{
+	"name": "PowerBISamples",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "43087d58-02f6-4e6b-ac46-22d9675d3b2a",
+		"tenantId": "11e86850-ea1c-4256-b52d-a75962ce3aef"
+	}
+}
